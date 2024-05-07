@@ -1,0 +1,8 @@
+stations=59
+sections=58
+trains=85
+stations_file=Konkan-Station-Data.csv
+sections_file=Konkan-Section-Data.csv
+timetable_file=Konkan-Timetable.csv
+start_time=2016-04-15  11:15:00 
+deadlock_patience=100

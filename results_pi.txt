@@ -1,0 +1,37 @@
+ADD values in minutes with their standard error averaged over 10 perturbed versions of the reference timetables.
+Results for Rc algorithm
+Ajmer Rc, ADD : 3.7941, Standard Error : 0.04988
+Kanpur Rc, ADD : 1.13469, Standard Error : 0.0527869
+Konkan Rc, ADD : 42.5931, Standard Error : 0.506803
+HYP-1 Rc, ADD : 16.18, Standard Error : 1.28295
+HYP-2 Rc, ADD : 4.1953, Standard Error : 0.182577
+HYP-3 Rc, ADD : 0.827727, Standard Error : 0.0733661
+HYP-4 Rc, ADD : 1170.11, Standard Error : 2.4599
+HYP-5 Rc, ADD : 524.226, Standard Error : 2.38884
+HYP-6 Rc, ADD : 5.89921, Standard Error : 1.01087
+HYP-7 Rc, ADD : 1228.3, Standard Error : 1.61066
+HYP-8 Rc, ADD : 169.478, Standard Error : 1.90257
+Results for Rg algorithm
+Ajmer Rg, ADD : 3.43175, Standard Error : 0.0400832
+Kanpur Rg, ADD : 1.29126, Standard Error : 0.0478725
+Konkan Rg, ADD : 39.6773, Standard Error : 0.565868
+HYP-1 Rg, ADD : 15.7575, Standard Error : 1.25657
+HYP-2 Rg, ADD : 3.99189, Standard Error : 0.235716
+HYP-3 Rg, ADD : 0.830417, Standard Error : 0.0738012
+HYP-4 Rg, ADD : 1170.11, Standard Error : 2.4599
+HYP-5 Rg, ADD : 524.226, Standard Error : 2.38884
+HYP-6 Rg, ADD : 6.34944, Standard Error : 1.22454
+HYP-7 Rg, ADD : 1215.73, Standard Error : 1.56867
+HYP-8 Rg, ADD : 169.478, Standard Error : 1.90257
+Results for R0 algorithm
+Ajmer R0, ADD : 3.43254, Standard Error : 0.0651421
+Kanpur R0, ADD : 1.09474, Standard Error : 0.0453668
+Konkan R0, ADD : 40.248, Standard Error : 0.610781
+HYP-1 R0, ADD : 15.74, Standard Error : 1.25915
+HYP-2 R0, ADD : 4.08114, Standard Error : 0.204327
+HYP-3 R0, ADD : 0.745114, Standard Error : 0.0614424
+HYP-4 R0, ADD : 1166.26, Standard Error : 2.48624
+HYP-5 R0, ADD : 517.227, Standard Error : 2.08994
+HYP-6 R0, ADD : 4.19794, Standard Error : 0.617821
+HYP-7 R0, ADD : 1225.99, Standard Error : 1.35533
+HYP-8 R0, ADD : 165.791, Standard Error : 2.41597

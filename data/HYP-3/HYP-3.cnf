@@ -1,0 +1,8 @@
+stations=11
+sections=10
+trains=120
+stations_file=HYP-3-Station-Data.csv
+sections_file=HYP-3-Section-Data.csv
+timetable_file=HYP-3-Timetable.csv
+start_time=2016-04-16  00:30:00
+deadlock_patience=60

@@ -1,0 +1,8 @@
+stations=4
+sections=3
+trains=350
+stations_file=HYP-4-Station-Data.csv
+sections_file=HYP-4-Section-Data.csv
+timetable_file=HYP-4-Timetable.csv
+start_time=2022-03-01  00:00:00
+deadlock_patience=50

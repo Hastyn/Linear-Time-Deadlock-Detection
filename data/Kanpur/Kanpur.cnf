@@ -1,0 +1,8 @@
+stations=27
+sections=26
+trains=190
+stations_file=Kanpur-Station-Data.csv
+sections_file=Kanpur-Section-Data.csv
+timetable_file=Kanpur-Timetable.csv
+start_time=2016-03-24  19:35:00
+deadlock_patience=100

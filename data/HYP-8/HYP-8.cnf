@@ -1,0 +1,8 @@
+stations=22
+sections=21
+trains=100
+stations_file=HYP-8-Station-Data.csv
+sections_file=HYP-8-Section-Data.csv
+timetable_file=HYP-8-Timetable.csv
+start_time=2023-01-18  00:00:00
+deadlock_patience=50
