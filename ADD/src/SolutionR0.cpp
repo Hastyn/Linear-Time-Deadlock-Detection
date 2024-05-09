@@ -10,11 +10,7 @@ SolutionR0::SolutionR0():Solution()
 int SolutionR0::policy(int train_id){
     // Passing Node Algorithm
     int i=1;
-    ROccupancy ocp,ocp2,ocp3,ocp4,ocp5;
-    ocp3 = _network->get_train_nth_resources_occupancy(train_id,1);
-    ocp2= _network->get_train_nth_resources_occupancy(train_id,0);
-    ocp5=_network->get_train_nth_resources_occupancy(train_id,3);
-    int p=0;
+    ROccupancy ocp;
     int action=0;
 
     while(true){

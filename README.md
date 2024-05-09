@@ -1,3 +1,5 @@
+This code base accompanies the paper "Linear-Time Optimal Deadlock Detection for Efficient Scheduling in Multi-Track Railway Networks" by Hastyn Doshi , Ayush Tripathi , Keshav Agarwal , Harshad Khadilkar , and Shivaram Kalyanakrishnan, which is accepted to IJCAI 2024.
+
 The following scripts can be used to generate the results presented in the paper:
 
 1. ADD.sh 

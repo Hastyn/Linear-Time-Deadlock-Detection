@@ -52,6 +52,8 @@ bool simulate(std::string path,std::string config_file, std::string timetable_fi
     bool success;
     float pwdd;
 
+    // Deciding the scheduler based on command line arguments
+    
     if(policy_improv.compare("true") == 0 && optimize.compare("true") == 0)
         scheduler_type = 3;
     else if(policy_improv.compare("true") == 0)
